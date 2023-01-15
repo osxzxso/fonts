@@ -3,4 +3,4 @@
 > Visual Studio Code | GitHub Theme (GitHub Dark)
 
 ### [JetBrains Mono](https://www.jetbrains.com/lp/mono)
-![JetBrains Mono](/images/JetBrains_mono.png)
+![JetBrains Mono](/images/JetBrains_Mono.png)
